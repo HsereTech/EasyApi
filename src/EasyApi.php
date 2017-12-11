@@ -1,12 +1,12 @@
 <?php
 /**
- * Project: apiBook
+ * Project: EasyApi
  * Date: 2017/12/11
  * Time: 下午5:01
  * Company: HsereTech Co.,Ltd.
  * Created: qinnianchao
  */
-namespace Hsere\ApiBook;
+namespace Hsere\EasyApi;
 
 Class Test
 {

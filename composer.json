@@ -1,13 +1,13 @@
 {
-  "name": "hsere/api-book",
+  "name": "Hsere/EasyApi",
   "license": "Mozilla Public License Version 2.0",
-  "description": "api-book",
+  "description": "EasyApi",
   "require": {
     "php": "^5.3.3 || ^7.0"
   },
   "autoload": {
     "psr-4": {
-      "Hsere\\Apibook\\": "src/"
+      "Hsere\\EasyApi\\": "src/"
     }
   }
 }
