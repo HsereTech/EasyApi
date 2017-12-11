@@ -1,5 +1,6 @@
 {
   "name": "hsere/api-book",
+  "license": "Mozilla Public License Version 2.0",
   "description": "api-book",
   "require": {
     "php": "^5.3.3 || ^7.0"
