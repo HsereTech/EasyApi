@@ -7,7 +7,7 @@
  * Created: qinnianchao
  */
 
-namespace Hsere\EasyApi;
+namespace Hsere;
 
 class EasyApi
 {
